@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a {
+  transition: color 0.3s ease;
+}
+
+li {
+  transition: transform 0.3s ease;
+}

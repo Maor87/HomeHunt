@@ -1,0 +1,15 @@
+/* Hide scrollbar on all elements */
+::-webkit-scrollbar {
+  width: 0.1rem;
+  background: transparent;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb {
+  background: transparent;
+}
+
+/* Handle on active state */
+::-webkit-scrollbar-thumb:hover {
+  background: transparent;
+}
